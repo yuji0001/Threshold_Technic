@@ -4,6 +4,9 @@ Threshold_Technic
 
 ## Description
 
+ - ``img/`` 閾値設計の例に使った画像
+ - ``Threshold_Technics.ipynb`` 閾値の例題の出力
+
 ## License
 Copyright 2020 Yuji Okamoto
 
