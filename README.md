@@ -4,8 +4,19 @@ Threshold_Technic
 
 ## Description
 
- - ``img/`` 閾値設計の例に使った画像
+ - ``img/main.png`` 閾値設計に使った画像
+ - ``sample_img/`` 出力された図
  - ``Threshold_Technics.ipynb`` 閾値の例題の出力
+ - ``Threshold.csv`` 画像の閾値のまとめ
+  
+## Requirement
+ - python 3.x.x
+ - pandas 
+ - numpy
+ - matplotlib
+ - cv2
+## Install
+Download this directory.
 
 ## License
 Copyright 2020 Yuji Okamoto
